@@ -3,7 +3,7 @@
 This notebook accompanies the Pydata Amsterdam 2024 talk:
 "Differential Privacy Made Practical"
 
-Slides can be found at [slides.pdf](https://robromijnders.nl/pydata24/slides.pdf)
+Slides can be found at [slides.pdf](https://github.com/RobRomijnders/pydata24/blob/main/slides.pdf)
 
 
 # Abstract
