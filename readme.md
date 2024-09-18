@@ -3,7 +3,7 @@
 This notebook accompanies the Pydata Amsterdam 2024 talk:
 "Differential Privacy Made Practical"
 
-Slides can be found at [robromijnders.nl/pydata24/slides.pdf](https://robromijnders.nl/pydata24/slides.pdf)
+Slides can be found at [slides.pdf](https://robromijnders.nl/pydata24/slides.pdf)
 
 
 # Abstract
@@ -19,4 +19,4 @@ Central to Differential Privacy (DP) is a critical hyperparameter that determine
 As a final-year PhD student at the University of Amsterdam, Rob Romijnders specializes in privacy-aware machine learning. Two research projects have been awarded oral talks by academic conferences such as AAAI and ICLR. Having worked at a startup and two AI companies, Rob is excited to be back at PyData and make academic topics applicable to the PyData community!
 
 # Contact
-Please reach out to me via email if you want to talk more about Differential Privacy! I'm also on the PyData2024 slack channel.
+Please reach out to me via email or if you want to talk more about Differential Privacy! I'm also on the PyData2024 slack channel.
